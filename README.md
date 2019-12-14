@@ -1,2 +1,3 @@
-# ListGentleIntro
-List-符号入门指引翻译
+LispGentleIntro
+===============
+Lisp-符号计算入门指引翻译
